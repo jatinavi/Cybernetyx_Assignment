@@ -108,7 +108,7 @@ Make a GET request to `/query/` with your query string.
 ## Contributing
 Contributions are welcome! Submit a Pull Request.
 
-For questions, reach out at [raghavendra.bhargava2004@gmail.com](mailto:raghavendra.bhargava2004@gmail.com) or visit [Rxghav1103](https://github.com/Rxghav1103).
+For questions, reach out at [jatinavi15@gmail.com](mailto:jatinavi15@gmail.com) or visit [jatinavi](https://github.com/jatinavi).
 
 ## License
 Licensed under the MIT License.
